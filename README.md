@@ -17,6 +17,6 @@ To get started with Leads Tracker:
 7. The extension will now be installed in your Chrome browser.
 8. Access the extension by clicking on the extension button, and start using it for lead tracking.
 
-Feel free to explore and customize the extension as per your requirements.
+Feel free to explore and customize the extension as per your requirements. 
 
 
